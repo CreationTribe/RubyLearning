@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="back_to_simple_examples.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="0007_P083_method-calls-&amp;-dynamic-blocks.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProgrammingRuby_PragProg/0007_P083_method-calls-&amp;-dynamic-blocks.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="5" selection-start="526" selection-end="526" vertical-scroll-proportion="0.41424417" vertical-offset="0" max-vertical-offset="973">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="back_to_simple_examples.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rubyist_RubyUsersGuide/back_to_simple_examples.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="14" selection-start="238" selection-end="238" vertical-scroll-proportion="0.20015699" vertical-offset="0" max-vertical-offset="1904">
+            <state line="17" column="14" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="1318">
               <folding />
             </state>
           </provider>
@@ -46,14 +55,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Rubyist_RubyUsersGuide/back_to_simple_examples.rb" />
+        <option value="$PROJECT_DIR$/ProgrammingRuby_PragProg/0007_P083_method-calls-&amp;-dynamic-blocks.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2127" />
-    <option name="y" value="-267" />
-    <option name="width" value="1873" />
-    <option name="height" value="1418" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -81,6 +90,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,7 +153,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +257,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2127" y="-267" width="1873" height="1418" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -256,7 +265,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19333698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19599427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -290,7 +299,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Rubyist_RubyUsersGuide/back_to_simple_examples.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="238" selection-end="238" vertical-scroll-proportion="0.20015699" vertical-offset="0" max-vertical-offset="1904">
+        <state line="17" column="14" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubyist_RubyUsersGuide/back_to_simple_examples.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="1318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingRuby_PragProg/0007_P083_method-calls-&amp;-dynamic-blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="526" selection-end="526" vertical-scroll-proportion="0.41424417" vertical-offset="0" max-vertical-offset="973">
           <folding />
         </state>
       </provider>
