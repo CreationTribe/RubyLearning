@@ -10,9 +10,26 @@ class MethCalDynBlk
     end
     "#{arg1} and also ... #{my_return_string}"
   end
+
   def call_stuff
-    many_many_parameters(*(1...10).to_a)
-    many_many_whatevers('starts here boys', *('aaa'...'ccc').to_s)
+    many_many_parameters(*(1...11).to_a)
+    many_many_whatevers('starts here boys', *('aa'...'cc'))
+
+    times_or_plus
+  end
+
+  def times_or_plus
+    print "(t)imes or (p)lus: "
+    times = gets
+    print "number: "
+    number = Integer(gets)
+    if times =~ /^t/
+      calc = lambda {|n| n*number }
+    else
+      calc = lambda {|n| n+number }
+    end
+    # if an ampersand is placed before a parameter, ruby assumes it is a block and will associate it accordingly
+    puts((1..10).collect(&calc).join('',''))
   end
 end
 
